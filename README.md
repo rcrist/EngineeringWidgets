@@ -1,6 +1,12 @@
 # EngineeringWidgets
 A collection of small engineeing apps written in Python and PyQt6
 
+Libraries:
+- PyQt6
+- pyqtgraph
+- pyopengl
+- numpy
+
 ## Digital Oscilloscope
 
 ![Screenshot](Images/Digital_Oscilloscopy.png)
